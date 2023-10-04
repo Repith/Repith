@@ -12,7 +12,7 @@ After 9 years of teaching I decided to :arrows_counterclockwise: and learn as mu
 [![Gmail](https://img.shields.io/badge/-marcin.mcgajzler-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marcin.mcgajzler@gmail.com)
 
 <!-- Working GIF -->
-<img src="https://github.com/Repith/Repith/blob/main/App.js.gif" alt="dev_object" align="right" width="350" height="auto" />
+<img src="https://github.com/Repith/Repith/blob/main/App.js.gif" alt="dev_object" align="right" width="350" height="auto" style="padding-left:5px"/>
 
 ### 💼 Things that I'm currently working on:
 
@@ -38,7 +38,7 @@ After 9 years of teaching in school I decided to completely to :arrows_countercl
     <img width="400" height="auto" align="right" alt="Repith's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=repith&show_icons=true&theme=algolia&count_private=true" />
 </a>
-<p align="center">
+<p>
 
  <!-- badges -->
 
@@ -54,8 +54,11 @@ After 9 years of teaching in school I decided to completely to :arrows_countercl
 #### Tools
 
 [![React][React.js]][React-url]
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 [![Next][Next.js]][Next-url]
 <br>
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-11a1f5.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -76,8 +79,7 @@ After 9 years of teaching in school I decided to completely to :arrows_countercl
 </p>
 
 <h3 align="center"> Thanks for Visiting! :innocent:</h4>
-
-:star: From [Repith](https://github.com/Repith)
+<h4 align="center">:star: From [Repith](https://github.com/Repith) </h4>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
