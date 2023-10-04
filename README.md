@@ -12,7 +12,7 @@ After 9 years of teaching I decided to :arrows_counterclockwise: and learn as mu
 [![Gmail](https://img.shields.io/badge/-marcin.mcgajzler-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marcin.mcgajzler@gmail.com)
 
 <!-- Working GIF -->
-<img src="https://github.com/Repith/Repith/blob/main/App.js.gif" alt="dev_object" align="right" width="350" height="auto" style="padding-left:5px"/>
+<img src="https://github.com/Repith/Repith/blob/main/App.js.gif" alt="dev_object" align="right" width="350" height="auto" style="margin-left:5px"/>
 
 ### 💼 Things that I'm currently working on:
 
@@ -79,7 +79,7 @@ After 9 years of teaching in school I decided to completely to :arrows_countercl
 </p>
 
 <h3 align="center"> Thanks for Visiting! :innocent:</h4>
-<h4 align="center">:star: From [Repith](https://github.com/Repith) </h4>
+:star: From [Repith](https://github.com/Repith)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
