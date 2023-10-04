@@ -14,7 +14,7 @@ After 9 years of teaching I decided to :arrows_counterclockwise: and learn as mu
 [![Gmail](https://img.shields.io/badge/-marcin.mcgajzler-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marcin.mcgajzler@gmail.com)
 
 <!-- Working GIF -->
-<img src="https://github.com/Repith/Repith/blob/main/App.js.gif" alt="dev_object" align="right" width="250" height="auto" />
+<img src="https://github.com/Repith/Repith/blob/main/App.js.gif" alt="dev_object" align="right" width="400" height="auto" />
 
 ### 💼 Things that I'm currently working on:
 
@@ -37,7 +37,7 @@ After 9 years of teaching in school I decided to completely to :arrows_countercl
 
 <p> <!-- GitHub README Stats -->
   <a href="https://github.com/Repith?tab=repositories">
-    <img width="250" height="auto" align="right" alt="Repith's github stats" 
+    <img width="400" height="auto" align="right" alt="Repith's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=repith&show_icons=true&theme=algolia&count_private=true" />
 </a>
 
