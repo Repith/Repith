@@ -21,7 +21,7 @@ After 9 years of teaching I decided to :arrows_counterclockwise: and learn as mu
 - Looking forward to get a first job :crossed_fingers:
 - 🔜
 
-### 🌱 Challenges that I’m currently challenging myself:
+### 🌱 Current challenges I'm taking on:
 
 After 9 years of teaching in school I decided to completely to :arrows_counterclockwise: turn my entire life upside down. That means I could get back to my youth dream and code more. I was focusing on feeding more knowledge:books: to myself while still working. I set a couple of self-challenges in order to push myself more further.:running:.
 
