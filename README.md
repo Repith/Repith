@@ -79,7 +79,12 @@ After 9 years of teaching in school I decided to completely to :arrows_countercl
 </p>
 
 <h3 align="center"> Thanks for Visiting! :innocent:</h3>
-:star: From [Repith](https://github.com/Repith)
+<h4 align="center">
+  
+  :star: From [Repith](https://github.com/Repith)
+
+</h4>
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
