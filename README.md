@@ -65,7 +65,6 @@ After 9 years of teaching in school I decided to completely to :arrows_countercl
 #### Other
 
 ![Prisma](https://img.shields.io/badge/Prisma-f5f5f5?style=for-the-badge&logo=Prisma&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-fa6c07?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 #### UI Design
