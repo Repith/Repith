@@ -44,36 +44,36 @@ After 9 years of teaching in school I decided to completely to :arrows_countercl
 
 #### Main
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+[![JavaScript][JavaScript]][JavaScript-url]
+[![TypeScript][TypeScript]][TypeScript-url]
 <br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![HTML5][HTML]][HTML-url] [![CSS3][CSS]][CSS-url]
 <br>
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+[![WordPress][WordPress]][WordPress-url]
 
 #### Tools
 
 [![React][React.js]][React-url]
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+[![Redux][Redux]][Redux-url]
 [![Next][Next.js]][Next-url]
 <br>
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+[![MUI][MUI]][MUI-url]
+[![SASS][SASS]][SASS-url]
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-11a1f5.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![TailwindCSS][TailwindCSS]][TailwindCSS-url]
 
 #### Other
 
-![Prisma](https://img.shields.io/badge/Prisma-f5f5f5?style=for-the-badge&logo=Prisma&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+[![Prisma][Prisma]][Prisma-url]
+[![MongoDB][MongoDB]][MongoDB-url]
 
 #### UI Design
 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+[![Canva][Canva]][Canva-url]
+[![Figma][Figma]][Figma-url]
+[![Adobe Photoshop][Adobe Photoshop]][Adobe Photoshop-url]
+[![Adobe Illustrator][Adobe Illustrator]][Adobe Illustrator-url]
+[![Adobe Premiere Pro][Adobe Premiere Pro]][Adobe Premiere Pro-url]
 
 </p>
 
@@ -86,10 +86,41 @@ After 9 years of teaching in school I decided to completely to :arrows_countercl
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-
+[JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
+[JavaScript-url]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[TypeScript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
+[TypeScript-url]: https://www.typescriptlang.org
+[HTML]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+[HTML-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
+[CSS]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
+[Wordpress]: https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white
+[Wordpress-url]: https://wordpress.org
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+[Redux]: https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white
+[Redux-url]: https://redux.js.org
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[MUI]: https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white
+[MUI-url]: https://mui.com
+[SASS]: https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
+[SASS-url]: https://sass-lang.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
+[TailwindCSS]: https://img.shields.io/badge/tailwindcss-11a1f5.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
+[TailwindCSS-url]: https://tailwindcss.com
+[Prisma]: https://img.shields.io/badge/Prisma-f5f5f5?style=for-the-badge&logo=Prisma&logoColor=black
+[Prisma-url]: https://www.prisma.io
+[MongoDB]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
+[MongoDB-url]: https://www.mongodb.com
+[Canva]: https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white
+[Canva-url]: https://www.canva.com
+[Figma]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
+[Figma-url]: https://www.figma.com
+[Adobe Photoshop]: https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white
+[Adobe Photoshop-url]: https://www.adobe.com/pl/products/photoshop/landpa.html
+[Adobe Illustrator]: https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white
+[Adobe Illustrator-url]: https://www.adobe.com/pl/products/illustrator.html
+[Adobe Premiere Pro]: https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white
+[Adobe Premiere Pro-url]: https://www.adobe.com/pl/products/premiere.html
