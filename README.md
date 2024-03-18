@@ -1,37 +1,35 @@
-# Hello! :wave:
-
-I'm Marcin! I'm a beginner **Frontend Developer**:seedling: that seeks for oportunity to transform ideas:bulb: into digital reality:earth_africa:. I'm passionate about creating software:computer: and tools to help people! I am eager to get more experienced, learn new things and most important **build a community**.
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
-<br>
-
-After 9 years of teaching I decided to :arrows_counterclockwise: and learn as much as I can to become a programmer!
-
-**I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more!** :blush:
-
-[![Linkedin](https://img.shields.io/badge/-MarcinGajzler-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcin-gajzler-27052a178/)
-[![Gmail](https://img.shields.io/badge/-marcin.mcgajzler-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marcin.mcgajzler@gmail.com)
+# Hi there! :wave:
 
 <!-- Working GIF -->
 <img src="https://github.com/Repith/Repith/blob/main/App.js.gif" alt="dev_object" align="right" width="350" height="auto" style="margin-left:5px"/>
 
-### 💼 Things that I'm currently working on:
+I'm Marcin, a dynamic <strong> Fullstack Developer </strong> with a knack for <strong> adapting quickly </strong> </br> to new environments and challenges. 
+Over the past 6 months, </br> I've immersed myself in the world of fullstack development, mastering Kotlin </br> while concurrently leading end-to-end application projects </br> that have huge impact on people's life!
 
-- Learning Front-End Web:computer: Development
-- Learning Next.js to become more a :hammer_and_wrench: FullStack Dev
-- Looking forward to get a first job :crossed_fingers:
-- 🔜
+[![Linkedin](https://img.shields.io/badge/-MarcinGajzler-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcin-gajzler-27052a178/)
+[![Gmail](https://img.shields.io/badge/-marcin.mcgajzler-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marcin.mcgajzler@gmail.com)
 
-### 🌱 Current challenges I'm taking on:
+### 🛠️ Languages and Tools:
+FrontEnd: <React, Next.js> [ Typescript | SCSS | Tailwind |Bootstrap ] </br>
+Backend: <Kotlin> [ JPA, JVM, Spring, Hibernate ] </br>
+Database:  [ PostgreSQL | MongoDB ] </br>
+DevOps:  [ Docker, Kubernates, AWS ] </br>
+UI /UX design: [ Figma | Canva | Adobe ] </br>
 
-After 9 years of teaching in school I decided to completely to :arrows_counterclockwise: turn my entire life upside down. That means I could get back to my youth dream and code more. I was focusing on feeding more knowledge:books: to myself while still working. I set a couple of self-challenges in order to push myself more further.:running:.
+_____
 
-- Learn to code:man_technologist: 2-3+ hours after work
-- Read:newspaper: Dev and UI articles daily
-- Workout:weight_lifting_man: 3 days a week and lost over 20kg
-- Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
-- Adapting to different lifestyle :hourglass:
+###  ℹ️ About me 
 
-### :hammer_and_wrench: Languages and Tools:
+🎓 Transitioning from a 9-year career in education, public speaking, and coaching, I bring a unique blend of adaptability, communication skills, and project management prowess to the table. My background equips me not only with technical proficiency but also with a keen understanding of client needs, efficient project estimation, and effective time management.
+
+💡  I thrive under pressure, relishing the opportunity to tackle complex challenges head-on while delivering top-notch solutions within tight deadlines.
+
+🌟 My journey from educator to programmer reflects my unwavering commitment to personal growth and professional excellence. Now, I'm on the lookout for opportunities to further hone my skills, collaborate with like-minded individuals, and make meaningful contributions to innovative projects.
+
+Let's connect and explore how we can create something extraordinary together!
+
+**I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more!** :blush:
+
 
 <!-- GitHub README Stats -->
   <a href="https://github.com/Repith?tab=repositories">
@@ -62,7 +60,7 @@ After 9 years of teaching in school I decided to completely to :arrows_countercl
 [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
 
-#### Other
+#### Other 
 
 [![Prisma][Prisma]][Prisma-url]
 [![MongoDB][MongoDB]][MongoDB-url]
