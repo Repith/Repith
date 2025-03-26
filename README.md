@@ -1,69 +1,75 @@
-# Hi there! :wave:
+# Hi there! 👋
 
-<!-- Working GIF -->
-<img src="https://github.com/Repith/Repith/blob/main/App.js.gif" alt="dev_object" align="right" width="350" height="auto" style="margin-left:5px"/>
+I'm **Marcin Gajzler**, a Fullstack Developer focused on building fast, scalable, and user-friendly applications using **React**, **Next.js**, **TypeScript**, **NestJS**, and **Kotlin**.
 
-I'm Marcin, a dynamic <strong> Fullstack Developer </strong> with a knack for <strong> adapting quickly </strong> </br> to new environments and challenges. 
-Over the past 6 months, </br> I've immersed myself in the world of fullstack development, mastering Kotlin </br> while concurrently leading end-to-end application projects </br> that have huge impact on people's life!
+With a background in education and public speaking, I bring more than just code — I bring clarity, empathy, and structure to every project. Currently, I'm expanding my expertise in **event-driven architecture (CQRS)** and contributing to systems where **UI/UX and clean backend design** go hand in hand.
 
-[![Linkedin](https://img.shields.io/badge/-MarcinGajzler-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcin-gajzler-27052a178/)
+[![LinkedIn](https://img.shields.io/badge/-Marcin%20Gajzler-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcin-gajzler/)
 [![Gmail](https://img.shields.io/badge/-marcin.mcgajzler-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marcin.mcgajzler@gmail.com)
 
-### 🛠️ Languages and Tools:
-FrontEnd: <React, Next.js> [ Typescript | SCSS | Tailwind |Bootstrap ] </br>
-Backend: <Kotlin> [ JPA, JVM, Spring, Hibernate ] </br>
-Database:  [ PostgreSQL | MongoDB ] </br>
-DevOps:  [ Docker, Kubernates, AWS ] </br>
-UI /UX design: [ Figma | Canva | Adobe ] </br>
+---
 
-_____
+### 🛠️ Tech Stack
 
-###  ℹ️ About me 
+**Frontend:** React, Next.js, TypeScript, SCSS, Tailwind, Material UI  
+**Backend:** Kotlin, Spring Boot, NestJS, Node.js  
+**Database:** PostgreSQL, MongoDB  
+**DevOps & Cloud:** Docker, Kubernetes, AWS  
+**Design & UX:** Figma, Adobe Suite  
 
-🎓 Transitioning from a 9-year career in education, public speaking, and coaching, I bring a unique blend of adaptability, communication skills, and project management prowess to the table. My background equips me not only with technical proficiency but also with a keen understanding of client needs, efficient project estimation, and effective time management.
+---
 
-💡  I thrive under pressure, relishing the opportunity to tackle complex challenges head-on while delivering top-notch solutions within tight deadlines.
+### ✨ About Me
 
-🌟 My journey from educator to programmer reflects my unwavering commitment to personal growth and professional excellence. Now, I'm on the lookout for opportunities to further hone my skills, collaborate with like-minded individuals, and make meaningful contributions to innovative projects.
+- 🔁 Career changer with 9+ years in education and public speaking
+- 🧠 Passionate about clean architecture, strong typing, and code readability
+- 🚀 Focused on delivering value through product-oriented development
+- 💬 Clear communicator & team player with mentoring experience
+- 🎯 Always learning and experimenting with new ideas (currently exploring Astro, GraphQL, and AI-assisted interfaces)
 
-Let's connect and explore how we can create something extraordinary together!
 
-**I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more!** :blush:
-
-
-<!-- GitHub README Stats -->
-  <a href="https://github.com/Repith?tab=repositories">
-    <img width="400" height="auto" align="right" alt="Repith's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=repith&show_icons=true&theme=algolia&count_private=true" />
+<a href="https://github.com/Repith?tab=repositories">
+  <img width="400" align="right" alt="Repith's github stats"
+       src="https://github-readme-stats.vercel.app/api?username=repith&show_icons=true&theme=algolia&count_private=true" />
 </a>
-<p>
 
- <!-- badges -->
+---
 
-#### Main
+### 🔍 Featured Skills
 
-[![JavaScript][JavaScript]][JavaScript-url]
-[![TypeScript][TypeScript]][TypeScript-url]
-<br>
-[![HTML5][HTML]][HTML-url] [![CSS3][CSS]][CSS-url]
-<br>
-[![WordPress][WordPress]][WordPress-url]
 
-#### Tools
+#### Frontend
 
 [![React][React.js]][React-url]
 [![Redux][Redux]][Redux-url]
 [![Next][Next.js]][Next-url]
+[![JavaScript][JavaScript]][JavaScript-url]
+[![TypeScript][TypeScript]][TypeScript-url]
+
 <br>
+
 [![MUI][MUI]][MUI-url]
 [![SASS][SASS]][SASS-url]
-[![Bootstrap][Bootstrap.com]][Bootstrap-url]
 [![TailwindCSS][TailwindCSS]][TailwindCSS-url]
+
+#### Backend
+
+[![Kotlin][Kotlin]][Kotlin-url]
+[![Node.js][Node.js]][Node-url]
+[![NestJS][NestJS]][NestJS-url]
+[![Spring Boot][Spring Boot]][Spring-url]
 
 #### Other 
 
-[![Prisma][Prisma]][Prisma-url]
+[![PostgreSQL][PostgreSQL]][PostgreSQL-url]
 [![MongoDB][MongoDB]][MongoDB-url]
+[![Prisma][Prisma]][Prisma-url]
+
+#### Database
+
+[![Docker][Docker]][Docker-url]
+[![Kubernetes][Kubernetes]][Kubernetes-url]
+[![AWS][AWS]][AWS-url]
 
 #### UI Design
 
@@ -72,6 +78,7 @@ Let's connect and explore how we can create something extraordinary together!
 [![Adobe Photoshop][Adobe Photoshop]][Adobe Photoshop-url]
 [![Adobe Illustrator][Adobe Illustrator]][Adobe Illustrator-url]
 [![Adobe Premiere Pro][Adobe Premiere Pro]][Adobe Premiere Pro-url]
+
 
 </p>
 
@@ -122,3 +129,26 @@ Let's connect and explore how we can create something extraordinary together!
 [Adobe Illustrator-url]: https://www.adobe.com/pl/products/illustrator.html
 [Adobe Premiere Pro]: https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white
 [Adobe Premiere Pro-url]: https://www.adobe.com/pl/products/premiere.html
+[Node.js]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+[Node-url]: https://nodejs.org/
+
+[NestJS]: https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white
+[NestJS-url]: https://nestjs.com/
+
+[PostgreSQL]: https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white
+[PostgreSQL-url]: https://www.postgresql.org/
+
+[Docker]: https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white
+[Docker-url]: https://www.docker.com/
+
+[Kubernetes]: https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white
+[Kubernetes-url]: https://kubernetes.io/
+
+[AWS]: https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white
+[AWS-url]: https://aws.amazon.com/
+
+[Kotlin]: https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white
+[Kotlin-url]: https://kotlinlang.org/
+
+[Spring Boot]: https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white
+[Spring-url]: https://spring.io/projects/spring-boot
